@@ -1,4 +1,7 @@
 sudo apt-get update && sudo apt-get upgrade
+sudo apt install snapd
+sudo snap install pycharm-community --classic
+sudo apt-get update && sudo apt-get upgrade
 yes "" | command
 sudo apt get install git
 sudo apt get install npm
