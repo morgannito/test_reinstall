@@ -1,3 +1,4 @@
+exit
 sudo apt-get update && sudo apt-get upgrade
 sudo apt install snapd
 sudo snap install pycharm-community --classic

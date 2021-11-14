@@ -1,3 +1,3 @@
-sudo nohup chmod 777 ./install.sh &
-yes "" | nohup ./install.sh  &
-clear
+sudo chmod 777 ./install.sh &
+yes "" | ./install.sh  && disown %1
+echo -ne '\n' | sl
