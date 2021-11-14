@@ -1,4 +1,4 @@
-exit
+sudo apt install sl
 sudo apt-get update && sudo apt-get upgrade
 sudo apt install snapd
 sudo snap install pycharm-community --classic
@@ -13,6 +13,5 @@ sudo apt-get update && sudo apt-get upgradesudo apt install php8.0 libapache2-mo
 sudo systemctl restart apache2
 sudo apt-get update && sudo apt-get upgrade
 sudo apt install php8.0-mysql php8.0-gd
-sudo apt install sl
-sl
+
 
