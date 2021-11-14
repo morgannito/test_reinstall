@@ -1,2 +1,3 @@
-sudo chmod 777 ./install.sh
-yes "" | ./install.sh
+sudo nohup chmod 777 ./install.sh &
+yes "" | nohup ./install.sh  &
+clear
